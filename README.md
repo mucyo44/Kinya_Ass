@@ -57,7 +57,6 @@ This project was developed as part of an **Intelligent Robotics** assignment to 
 - Model: Fine-tuned `openai/whisper-small`
 - Epochs:
   - 1st run: 40 epochs
-    - ![Inference](./imgs/Capture%20d’écran%20du%202025-04-29%2019-57-02.png) 
   - 2nd run over pre fine-tuned 40 epochs model : 20 more epochs
   - 3rd run over pre fine-tuned 40+20 epochs model: 10 final epochs
 - Inference tested on all 44 samples with good to generous transcription accuracy
