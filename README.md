@@ -64,12 +64,12 @@ This project was developed as part of an **Intelligent Robotics** assignment to 
 
 ---
 
-## ▶️ How To Run
+## ▶ How To Run
 
 ### 1. Clone and Install Requirements
 
 ```bash
-git clone https://github.com/hrh2/kinyawhisper-voice-assistant.git
+git clone https://github.com/mucyo44/kinya_Ass.git
 cd kinyawhisper-voice-assistant
 pip install transformers[torch] datasets torchaudio warnings difflib pyttsx3 sounddevice
 ```
@@ -146,13 +146,13 @@ Upload your own `.wav` files into the `audio/` folder or record with `bach_main.
 ## 🎓 Academic Info
 
 - **Course**: Intelligent Robotics  
-- **Instructor**: [Gabriel Baziramwabo ](https://www.researchgate.net/profile/Gabriel-Baziramwabo) 
+- **Instructor**: [Gabriel Baziramwabo ] 
 - **School**: [Rwanda Coding Academy](https://rca.ac.rw/)  
 
 ---
 
 ## 👤 Author
 
-**HIRWA Rukundo Hope**  
-Email: gakundohope5@gmail.com  
-GitHub: [@hrh2](https://github.com/hrh2)
+**MUCYO Honorine**  
+Email: honorinemucyo4b@gmail.com 
+
