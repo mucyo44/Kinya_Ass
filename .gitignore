@@ -1,1 +1,40 @@
-kinya-whisper-model/checkpoint-*/
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio recordings
+audio/*.wav
+
+# Model cache (optional)
+*.safetensors
+*.bin
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
